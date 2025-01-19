@@ -12,7 +12,7 @@ title                    : "Wanzhu Ren's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Wanzhu Ren"
 description              : &description "A second-year master's student in the School of Computer Science and Technology at Xi'an University of Science and Technology."
-url                      : https://RCc0811.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://RCc0811/RWZXUST.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RCc0811/RWZXUST.github.io"
 
@@ -21,7 +21,7 @@ repository               : "RCc0811/RWZXUST.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "profile.png"
   name             : "Wanzhu Ren"
   pronouns         : # example: "she/her"  
   bio              : "A second-year master's student in the School of Computer Science and Technology at Xi'an University of Science and Technology."
