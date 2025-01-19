@@ -1,3 +1,13 @@
+---
+permalink:/
+title:"About me"
+excerpt:"About me"
+author_profile:true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 I'm a second year master student from [School of Computer Science and Technology](https://jsjxy.xust.edu.cn/), [Xi'an University of Science and Technology](https://www.xust.edu.cn/). My research interest includes computer vision, computer graphics, and machine learning.
 
 I am very fortunate to be advised by [Prof. Tian Ma](https://jsjxy.xust.edu.cn/info/1103/1844.htm) from [School of Computer Science and Technology](https://jsjxy.xust.edu.cn/), Xi'an University of Science and Technology. 
