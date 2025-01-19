@@ -1,6 +1,7 @@
-# profile
-I'm a second-year master student in the School of Computer Science and Technology at Xi'an University of Science and Technology in China. My research area is machine vision.
+I'm a second year master student from [School of Computer Science and Technology](https://jsjxy.xust.edu.cn/), [Xi'an University of Science and Technology](https://www.xust.edu.cn/). My research interest includes computer vision, computer graphics, and machine learning.
 
-## Recent work
-[ICASSP 2025] SPARSE GENERATION: MAKING PSEUDO LABELS SPARSE FOR POINT WEAKLY SUPERVISED OBJECT DETECTION ON LOWDATA VOLUME
-                         Chuyang Shang, Tian Ma, Wanzhu Ren, Yuancheng Li, Jiayi Yang
+I am very fortunate to be advised by [Prof. Tian Ma](matian@xust.edu.cn) from [School of Computer Science and Technology](https://jsjxy.xust.edu.cn/), Xi'an University of Science and Technology. 
+
+You can find my CV here: [Wanzhu Ren's Curriculum Vitae](https://github.com/RCc0811/nora.github.io/blob/main/profile.pdf).
+
+[Email](2469460575@qq.com) / [Github](https://github.com/RCc0811/RWZXUST.github.io) / [CSDN](https://blog.csdn.net/m0_62880404?spm=1000.2115.3001.5343)
